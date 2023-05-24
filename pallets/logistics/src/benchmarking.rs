@@ -1,4 +1,4 @@
-//! Benchmarking setup for pallet-template
+//! Benchmarking setup for pallet-logistics
 #![cfg(feature = "runtime-benchmarks")]
 use super::*;
 
